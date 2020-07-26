@@ -111,7 +111,7 @@ export const tutorialsPageQuery = graphql`
         }
         tutorials {
           title
-          url
+          id
           description
         }
       }

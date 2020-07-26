@@ -4,7 +4,6 @@ import PropTypes from 'prop-types'
 class TutorialsRoll extends React.Component {
   render() {
     const { tutorials } = this.props
-    console.log('DATA', this.props);
 
     return (
       <div className="columns is-multiline">
@@ -14,7 +13,7 @@ class TutorialsRoll extends React.Component {
               <div className="card">
                 <div className="card-content">
                   <iframe style={{ width: '100%', backgroundColor: '#EEEEEE' }} height="206"
-                          src={`https://www.youtube.com/embed/${tutorial.url}`} />
+                          src={`https://www.youtube.com/embed/${tutorial.id}`} />
                 </div>
                 <div className="card-header-title video-title">
                   <span style={{
@@ -31,7 +30,7 @@ class TutorialsRoll extends React.Component {
       </div>
     )
   }
-};
+}
 
 export default TutorialsRoll;
 
