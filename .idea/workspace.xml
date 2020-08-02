@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03a9a122-a1f9-4461-a69a-e2ea24a71b63" name="Default Changelist" comment="Add thanks.js">
+      <change afterPath="$PROJECT_DIR$/.env.development.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/learn-with-pranav.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby-ssr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/contact-overlay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/contact.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/details-flipped.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/details.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/footer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/overlay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Card/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Container/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Input/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/fonts/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Layout/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/SEO/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/About/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/About/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Contact/ContactForm/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Contact/ContactForm/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Contact/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Contact/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Intro/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Intro/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Skills/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Skills/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Testimonials/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Testimonials/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Testimonials/testimonials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Tutorials/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Tutorials/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/Tutorials/tutorials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Footer/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Footer/social.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Footer/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Hamburger/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Hamburger/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Navbar/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Navbar/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/NavbarLinks/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/NavbarLinks/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Sidebar/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/Sidebar/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/Header/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useDarkMode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useMedia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/providers/ThemeProvider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon/favicon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/icons/telegram.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dependabot/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/custom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lambda/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renovate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cms/cms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cms/preview-templates/AboutPagePreview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cms/preview-templates/BlogPostPreview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cms/preview-templates/IndexPagePreview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cms/preview-templates/TutorialsPagePreview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SiteMetadata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Testimonials.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TutorialsRoll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/all.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/social/facebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/facebook.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/social/gmail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/social/instagram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/instagram.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/social/telegram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/social/whatsapp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/whatsapp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/social/youtube.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/icons/youtube.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/contact/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/contact/thanks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/tags/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/tutorials/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/about-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/blog-post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/index-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/tags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/tutorials-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/blog-index.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/chemex.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/coffee-gear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/coffee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/flavor_wheel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/home-jumbotron.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/jumbotron.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/meeting-space.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/og-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products-full-width.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products-grid1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products-grid2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/products-grid3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/tutorials.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Dixita Ganatra &lt;dixita0607@gmail.com&gt;" />
+        <option value="Dixita Ganatra &lt;dixita0607@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+      <selected-paths>
+        <path>
+          <id value="$PROJECT_DIR$/package.json" />
+          <id value="start" />
+        </path>
+      </selected-paths>
+    </layout>
+  </component>
+  <component name="ProjectId" id="1fDDxUOqXRLXT3m1UDfZgKd0kyR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/common/Layout/fonts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/icons" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/common/Layout/fonts" />
+      <recent name="$PROJECT_DIR$/static/favicon" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/assets/illustrations" />
+      <recent name="$PROJECT_DIR$/static/icons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03a9a122-a1f9-4461-a69a-e2ea24a71b63" name="Default Changelist" comment="" />
+      <created>1595744015425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595744015425</updated>
+      <workItem from="1595744021268" duration="277000" />
+      <workItem from="1595744303366" duration="410000" />
+      <workItem from="1595744737382" duration="24373000" />
+      <workItem from="1596351346670" duration="21000" />
+      <workItem from="1596351631758" duration="24330000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add .idea/ to gitignore">
+      <created>1595744767265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595744767265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change website template for Learn with Pranav">
+      <created>1595770503589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595770503589</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change edit fields configs">
+      <created>1595771720686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595771720687</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add thanks.js">
+      <created>1595772599972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595772599972</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Add .idea/ to gitignore" />
+    <MESSAGE value="Change website template for Learn with Pranav" />
+    <MESSAGE value="change edit fields configs" />
+    <MESSAGE value="Add thanks.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add thanks.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="23" width="874" height="877" key="CommitChangelistDialog2" timestamp="1596364946008">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="278" y="23" width="874" height="877" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1596364946008" />
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1596369414339">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1596369414339" />
+    <state width="1419" height="198" key="GridCell.Tab.0.bottom" timestamp="1596380559663">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="198" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1596380559663" />
+    <state width="1419" height="198" key="GridCell.Tab.0.center" timestamp="1596380559661">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="198" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1596380559661" />
+    <state width="1419" height="198" key="GridCell.Tab.0.left" timestamp="1596380559660">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="198" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1596380559660" />
+    <state width="1419" height="198" key="GridCell.Tab.0.right" timestamp="1596380559662">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="198" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1596380559662" />
+    <state x="833" y="143" key="RollbackChangesDialog" timestamp="1596379358274">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="833" y="143" key="RollbackChangesDialog/0.23.1440.877@0.23.1440.877" timestamp="1596379358274" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1595770339011">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1595770339011" />
+    <state x="100" y="123" width="1240" height="677" key="ShowDiffWithBranchDialog" timestamp="1596371094151">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="ShowDiffWithBranchDialog/0.23.1440.877@0.23.1440.877" timestamp="1596371094150" />
+    <state x="573" y="384" key="VCS.ChangelistChooser" timestamp="1595772481677">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="573" y="384" key="VCS.ChangelistChooser/0.23.1440.877@0.23.1440.877" timestamp="1595772481677" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1595772603634">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1595772603634" />
+    <state x="342" y="80" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596377112158">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="342" y="80" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.877@0.23.1440.877" timestamp="1596377112158" />
+    <state x="100" y="123" width="1240" height="677" key="dock-window-1" timestamp="1596356642658">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="dock-window-1/0.23.1440.877@0.23.1440.877" timestamp="1596356642658" />
+    <state x="672" y="233" width="609" height="474" key="find.popup" timestamp="1596381562822">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="672" y="233" width="609" height="474" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1596381562822" />
+    <state x="595" y="325" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1595745398477">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="595" y="325" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.23.1440.877@0.23.1440.877" timestamp="1595745398477" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1596381910792">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1596381910792" />
+  </component>
+</project>
