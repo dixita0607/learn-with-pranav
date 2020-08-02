@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "private": true,
-  "description": "Portfolio website",
+  "description": "Portfolio website for Pranav Popat",
   "version": "0.0.1",
   "author": "Dixita <dixita0607@gmail.com>",
   "dependencies": {
