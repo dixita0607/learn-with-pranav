@@ -8,5 +8,6 @@ export const Wrapper = styled.div`
 export const Paragraph = styled.p`
   font-size: 14pt;
   color: #505050;
+  line-height: 1.5;
 `;
 

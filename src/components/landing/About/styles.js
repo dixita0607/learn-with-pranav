@@ -32,7 +32,7 @@ export const Details = styled.div`
   h1 {
     margin-bottom: 2rem;
     font-size: 26pt;
-    color: ${({ theme }) => (theme === 'dark' ? '#fff' : '#212121')};
+    color: #212121;
 
     @media (max-width: 960px) {
       mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};
@@ -44,7 +44,7 @@ export const Details = styled.div`
     font-size: 15pt;
     font-weight: normal;
     line-height: 1.5;
-    color: ${({ theme }) => (theme === 'dark' ? '#c7c7c7' : '#505050')};
+    color: #505050;
 
     @media (max-width: 960px) {
       mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};

@@ -31,10 +31,10 @@ export const Details = styled.div`
   h1 {
     margin-bottom: 2rem;
     font-size: 36pt;
-    color: ${({ theme }) => (theme === 'light' ? '#212121' : '#fff')};
+    color: #212121;
 
     @media (max-width: 960px) {
-      mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};
+      mix-blend-mode: unset;
     }
 
     @media (max-width: 680px) {
@@ -46,10 +46,10 @@ export const Details = styled.div`
     margin-bottom: 2.5rem;
     font-size: 20pt;
     font-weight: normal;
-    color: ${({ theme }) => (theme === 'light' ? '#505050' : '#e6e6e6')};
+    color: #505050;
     line-height: 30pt;
     @media (max-width: 960px) {
-      mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};
+      mix-blend-mode: unset;
     }
 
     @media (max-width: 680px) {
