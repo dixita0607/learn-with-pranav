@@ -10,7 +10,7 @@ export const Wrapper = styled.div`
 `;
 
 export const IntroWrapper = styled.div`
-  padding: 4rem 0;
+  padding: 6rem 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -56,6 +56,11 @@ export const Details = styled.div`
       font-size: 26pt;
     }
   }
+`;
+
+export const GooglePlayIcon = styled.img`
+    width: 0px;
+    margin-left: -14px;
 `;
 
 export const Thumbnail = styled.div`

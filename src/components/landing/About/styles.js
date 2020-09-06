@@ -6,11 +6,10 @@ export const Wrapper = styled.div`
   background-size: contain;
   background-position: left top;
   background-repeat: no-repeat;
-  padding: 10rem;
+  padding: 5rem;
 `;
 
 export const AboutWrapper = styled.div`
-  padding: 2rem 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -61,7 +60,7 @@ export const Thumbnail = styled.div`
   }
 
   img {
-    width: 300px; 
+    width: 350px; 
     border: 1rem solid #fff;
     border-radius: 50%
   }
