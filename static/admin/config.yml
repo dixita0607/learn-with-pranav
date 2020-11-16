@@ -30,7 +30,6 @@ collectios:
           allow_add: true,
           fields:
             - { label: Testimonial, name: testimonial, widget: text }
-            - { label: Author, name: author, widget: string }
       }
 
 
