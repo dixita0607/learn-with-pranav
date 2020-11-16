@@ -13,7 +13,7 @@ collections:
       - { label: "About", name: "about", widget: "text" }
       - { label: "Achievements", name: "achievements", widget: "list", allow_add: true, field: { label: Achievement, name: achievement, widget: string } }
       - { label: "Experience", name: "experience", widget: "text"}
-      - { label: "Tutorials", name: "tutorials", widget: "list", field: { label: Tutorial, name: tutorial, widget: string } }
-      - { label: "Testimonials", name: "testimonials", widget: "list", allow_add: true }
+      - { label: "Tutorials", name: "tutorials", widget: "list", fields: [{ label: TutorialId, name: id, widget: string }, { label: TutorialName, name: title, widget: string }] }
+      - { label: "Testimonials", name: "testimonials", widget: "list", allow_add: true, fields: [{ label: Testimonial, name: testimonial, widget: text }, { label: Author, name: author, widget: strig }] }
 
 
