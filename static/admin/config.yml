@@ -2,8 +2,7 @@ backend:
   name: git-gateway
   branch: single-page-theme
 media_folder: static/icons
-media_library:
-  name: uploads
+public_folder: /img
 collections:
   - name: 'single-page'
     label: 'Single Page'
