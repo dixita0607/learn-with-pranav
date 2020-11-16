@@ -5,7 +5,7 @@ import { Container } from 'components/common';
 import { Wrapper, IntroWrapper, Details, GooglePlayIcon } from './styles';
 import googlePlayIcon from 'assets/google-play-badge.png';
 
-export const Intro = () => {
+export const Intro = ({title, brief, appLink}) => {
   const { theme } = useContext(ThemeContext);
 
   return (
@@ -13,10 +13,9 @@ export const Intro = () => {
       <Header />
       <IntroWrapper as={Container}>
         <Details theme={theme}>
-          <h1>E-Learning | CA. Pranav Popat</h1>
-          <h4>Learn with Pranav is an e-learning platform providing interactive educational videos and other resources
-            for professional courses exams and other practical courses like MS Excel, Power BI etc.</h4>
-          <a href="https://play.google.com/store/apps/details?id=co.shield.rchhp" target="_blank">
+          <h1>{title}</h1>
+          <h4>{brief}</h4>
+          <a href={appLink} target="_blank">
             <GooglePlayIcon src={googlePlayIcon} alt="App" />
           </a>
         </Details>

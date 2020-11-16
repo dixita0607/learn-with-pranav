@@ -1,6 +1,6 @@
 module.exports = {
   defaultTitle: 'Learn with Pranav',
-  logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
+  logo: '../assets/logo.svg',
   author: 'Dixita Ganatra',
   url: 'https://learnwithpranav.com',
   legalName: 'Learn with Pranav',
@@ -12,10 +12,6 @@ module.exports = {
     youtube: 'https://www.youtube.com/channel/UCKxrMleG0D352dCvTQajD1w?view_as=subscriber?sub_confirmation=1',
     whatsapp: 'https://wa.me/918319787329',
   },
-  googleAnalyticsID: 'UA-88875900-4',
-  themeColor: '#6b63ff',
-  backgroundColor: '#6b63ff',
-  social: {},
   contact: {
     email: 'capranavpopat@gmail.com',
     phone: '918319787329',

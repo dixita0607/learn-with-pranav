@@ -3,13 +3,13 @@ import { Footer } from 'components/theme';
 import { Global } from './styles';
 import './fonts.css';
 
-export const Layout = ({ children }) => {
+export const Layout = ({ children, socialLinks, email, phone }) => {
 
   return (
     <>
       <Global />
       {children}
-      <Footer />
+      <Footer socialLinks={socialLinks} email={email} phone={phone} />
     </>
   );
 };

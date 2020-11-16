@@ -3,18 +3,18 @@ import { Container, Card, Button } from 'components/common';
 import { Wrapper, Content, Item, VideoTitle, Grid, Channel, TutorialsWrapper } from './styles';
 import videos from './tutorials.json';
 
-export const Tutorials = () => {
+export const Tutorials = ({tutorials, channel}) => {
   return (
     <Wrapper id="tutorials">
       <TutorialsWrapper as={Container}>
         <h1>Latest Tutorials</h1>
         <Grid>
-          {videos.map(({ title, videoId }) => (
-            <Item key={videoId}>
+          {tutorials.map(({ id, title }) => (
+            <Item key={id}>
               <Card>
                 <Content>
                   <iframe style={{ width: '100%', backgroundColor: '#EEEEEE' }} height="206"
-                          src={`https://www.youtube.com/embed/${videoId}`} />
+                          src={`https://www.youtube.com/embed/${id}`} />
                   <VideoTitle title={title}>{title}</VideoTitle>
                 </Content>
               </Card>
@@ -22,7 +22,7 @@ export const Tutorials = () => {
           ))}
         </Grid>
         <Channel>
-          <a href="https://www.youtube.com/channel/UCKxrMleG0D352dCvTQajD1w?view_as=subscriber?sub_confirmation=1"
+          <a href={channel}
              target="_blank">
             <Button secondary>Go to Channel</Button>
           </a>

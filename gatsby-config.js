@@ -23,6 +23,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `src`,
+        path: `${__dirname}/src/`,
+      },
+    },
+    {
       resolve: 'gatsby-plugin-favicon',
       options: {
         logo: './static/favicon/favicon-512.png',
@@ -53,5 +60,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    'gatsby-transformer-remark',
   ],
 };
