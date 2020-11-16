@@ -1,6 +1,18 @@
 ---
 title: E-Learning | CA. Pranav Popat
 brief: Learn with Pranav is an e-learning platform providing interactive educational videos and other resources for professional courses exams and other practical courses like MS Excel, Power BI etc.
+appLink: https://play.google.com/store/apps/details?id=co.shield.rchhp
+socialLinks:
+  - platform: Youtube
+    link: https://www.youtube.com/channel/UCKxrMleG0D352dCvTQajD1w?view_as=subscriber?sub_confirmation=1
+  - platform: Whatsapp
+    link: https://wa.me/918319787329
+  - platform: Telegram
+    link: https://t.me/learnwithpranav
+  - platform: Instagram
+    link: https://www.instagram.com/ca_pranav
+  - platform: Facebook
+    link: https://www.facebook.com/learnwithpranav
 about: A commerce graduate and first attempt Chartered Accountant, Pranav is one the youngest CA Faculties in India. He loves Public Speaking and motivating students. His unique approach of teaching helps commerce students to get rid of “MATHS PHOBIA”.
 achievements: 
   - achievement: Most loved Maths Faculty for CA Foundation.
@@ -19,4 +31,6 @@ testimonials:
       author: Adam
     - testimonial: His teaching style is awesome. I am able to solve all the other sums after clearing my concept.
       author: Eva
+phone: +91 83197 87329
+email: capranavpopat@gmail.com
 ---

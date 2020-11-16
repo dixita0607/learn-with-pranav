@@ -59,7 +59,7 @@ export const Details = styled.div`
 `;
 
 export const GooglePlayIcon = styled.img`
-    width: 0px;
+    width: 200px;
     margin-left: -14px;
 `;
 
