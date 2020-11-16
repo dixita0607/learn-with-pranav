@@ -28,8 +28,6 @@ collectios:
           name: "testimonials",
           widget: "list",
           allow_add: true,
-          fields:
-            - { label: Testimonial, name: testimonial, widget: text }
       }
 
 
