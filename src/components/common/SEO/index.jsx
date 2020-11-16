@@ -30,8 +30,6 @@ export const SEO = ({ title = defaultTitle, description = defaultDescription, lo
 			"contactType": "customer service"
 		}],
 		"sameAs": [
-			"${socialLinks.twitter}",
-			"${socialLinks.google}",
 			"${socialLinks.youtube}",
 			"${socialLinks.instagram}",
 		]
@@ -46,12 +44,11 @@ export const SEO = ({ title = defaultTitle, description = defaultDescription, lo
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
 
-      <meta name="twitter:card" content="summary" />
-      <meta name="twitter:creator" content={socialLinks.twitter} />
-      <meta name="twitter:title" content={title} />
-      <meta name="twitter:description" content={description} />
+      <meta name="youtube:card" content="summary" />
+      <meta name="youtube:creator" content={socialLinks.youtube} />
+      <meta name="youtube:title" content={title} />
+      <meta name="youtube:description" content={description} />
       <script type="application/ld+json">{structuredDataOrganization}</script>
-      <link rel="publisher" href={socialLinks.google} />
       <title>{title}</title>
       <html lang="en" dir="ltr" />
     </Helmet>
