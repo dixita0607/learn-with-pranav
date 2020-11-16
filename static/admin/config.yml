@@ -14,23 +14,23 @@ collectios:
           name: "achievements",
           widget: "list",
           allow_add: true,
-          field: {label: Achievement, name: achievement, widget: string}
+          field: { label: Achievement, name: achievement, widget: string }
         }
       - { label: "Experience", name: "experience", widget: "text"}
       - {
           label: "Tutorials",
           name: "tutorials",
           widget: "list",
-          field: {label: Tutorial, name: tutorial, widget: string}
+          field: { label: Tutorial, name: tutorial, widget: string }
         }
       - {
-          label: "Testimonials",
+        label: "Testimonials",
           name: "testimonials",
           widget: "list",
           allow_add: true,
           fields:
-            - {label: Testimonial, name: testimonial, widget: text}
-            - {label: Author, name: author, widget: string}
+            - { label: Testimonial, name: testimonial, widget: text }
+            - { label: Author, name: author, widget: string }
       }
 
 
