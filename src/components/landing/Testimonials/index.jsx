@@ -8,7 +8,7 @@ export const Testimonials = ({ testimonials }) => {
     <Wrapper as={Container} id="testimonials">
       <h1>Testimonials</h1>
       <TestimonialsWrapper>
-        {testimonials.map(({ author, testimonial }) => (
+        {testimonials?.map(({ author, testimonial }) => (
           <Item key={author}>
             <Card>
               <p className="quote">{testimonial}</p>

@@ -9,7 +9,7 @@ export const Tutorials = ({tutorials, channel}) => {
       <TutorialsWrapper as={Container}>
         <h1>Latest Tutorials</h1>
         <Grid>
-          {tutorials.map(({ id, title }) => (
+          {tutorials?.map(({ id, title }) => (
             <Item key={id}>
               <Card>
                 <Content>

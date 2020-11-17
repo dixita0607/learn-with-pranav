@@ -15,7 +15,7 @@ export const Footer = ({ socialLinks, phone, email }) => (
         </ContactDetails>
       </Details>
       <Links>
-        {socialLinks.map(({ platform, link }, index) => (
+        {socialLinks?.map(({ platform, link }, index) => (
           <a key={index.toString()} href={link} target="_blank" rel="noopener noreferrer"
              aria-label={`follow me on ${platform}`}>
             <img width="24" src={`/icons/${platform.toLowerCase()}.svg`} alt={platform} />
