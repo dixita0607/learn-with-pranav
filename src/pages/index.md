@@ -38,6 +38,8 @@ testimonials:
   - testimonial: Thank you for putting the lessons available free on Youtube. It
       helped me revise all the subjects last minute.
     author: Kim
+  - testimonial: Wow
+    author: Tim
 socialLinks:
   - platform: Youtube
     link: https://www.youtube.com/channel/UCKxrMleG0D352dCvTQajD1w?view_as=subscriber?sub_confirmation=1
